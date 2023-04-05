@@ -2,7 +2,7 @@
 
 ettu is a recursive DNS brute-forcer that tries to avoid dead-ends.
 
-Like all tools in my hacks repo it's alpha-quality (at best) so you're
+Like all tools on my github it's pretty patchy (at best) so you're
 likely to find rough edges. I'd still like to hear about issues with
 it though.
 
