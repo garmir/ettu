@@ -9,7 +9,7 @@ it though.
 ## Install
 
 ```
-go get -u github.com/garmir/script-dump/ettu
+go get -u github.com/garmir/ettu
 ```
 
 ## Usage
